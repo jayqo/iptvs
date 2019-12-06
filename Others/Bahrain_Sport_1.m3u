@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033

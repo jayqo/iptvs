@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8

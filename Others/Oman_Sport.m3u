@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Y4dfyeg.jpg" tvg-country="OM" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Oman Sport
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
